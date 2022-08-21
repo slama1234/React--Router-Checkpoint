@@ -1,0 +1,62 @@
+.filmCover{
+  width: 200px;
+  height: 300px;
+  margin-top: 20px;
+}
+.LDetails{
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(104, 99, 6);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.films{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(191, 196, 201);
+  padding: 10px 20px 10px;
+}
+.container{
+  background-color: rgb(191, 196, 201);
+}
+.film{
+  display: flex;
+  flex-direction: column;
+}
+.movieTitle{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+  padding: 20px 5px 20px;
+  color: rgb(104, 99, 6);
+}
+.sinopsis{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  padding: 20px 5px 20px;
+}
+.CantainerTrailer{
+  display: flex;
+  justify-content: center;
+}
+.menu{
+  display: flex;
+  justify-content: space-around;
+}
+.menu, il{
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+}
+.LMenu{
+  text-decoration: none;
+  color: rgb(104, 6, 19);
+  size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+.BG{
+  margin: 0px;
+  background-color: rgb(66, 128, 190);
+}
